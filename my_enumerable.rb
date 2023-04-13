@@ -20,3 +20,4 @@ module MyEnumerable
     end
     array
   end
+end
